@@ -6,7 +6,7 @@ An internshhip project at The Sparks Foundation
  <li>The payment gateway also sends an email and a receipt to receipient's email.</li>
 </ul>
 <h2>Website Link</h2>
- <a href="https://aryan8677.github.io/paymentgatway//paymentgatway/">paymentgatway</a>
+ <a href="https://aryan8677.github.io/paymentgatway/">paymentgatway</a>
   
 <h2>Snapshots</h2>
 <img src="./a.png">
