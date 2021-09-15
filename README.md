@@ -15,3 +15,6 @@ An internshhip project at The Sparks Foundation
 <img src="./d.png">
 <img src="./e.png">
 <img src="./f.png">
+<img src="./g.png">
+<img src="./h.png">
+<img src="./i.png">
